@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi 👋,
+
+I am a Software Engineering student at The University of Waterloo🇨🇦. I am almost always looking for internships and you can find my resume [here](https://github.com/vikramsubramanian/resume). I have previously interned at [Thomson Reuters](https://innovation.thomsonreuters.com/en/labs.html) and [Sandvine](https://www.sandvine.com/)
+
+
+I am also interested Software Engineering Research and am working at SWAG Lab, University of Waterloo with [Prof. Mei Nagappan](https://cs.uwaterloo.ca/~m2nagapp/). You can find some of publications [here](https://github.com/vikramsubramanian/what_should_my_first_open_source_contribution_be) and [here](https://github.com/vikramsubramanian/first_time_OSS_contributors). 
+
+
+A little article about my research work- [here](https://cs.uwaterloo.ca/news/cheriton-faculty-members-graduate-undergraduate-students-win-four-awards-at-icse-2020) and [here](https://uwaterloo.ca/software-engineering/news/se-student-wins-acmicse-research-award).
+
+
+A project I've been working on that archives research tools- [segarage.org](https://segarage.org/)
+
+
+
 
 <!--
 **vikramsubramanian/vikramsubramanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
