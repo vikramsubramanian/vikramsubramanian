@@ -12,7 +12,7 @@ A little article about my research work- [here](https://cs.uwaterloo.ca/news/che
 A project I've been working on that archives research tools- [segarage.org](https://segarage.org/)
 
 
-
+[![HitCount](http://hits.dwyl.com/vikramsubramanian/vikramsubramanian.svg)](http://hits.dwyl.com/vikramsubramanian/vikramsubramanian)
 
 <!--
 **vikramsubramanian/vikramsubramanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
