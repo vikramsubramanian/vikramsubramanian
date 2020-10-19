@@ -1,6 +1,6 @@
 ### Hi I'm Vikram Subramanian 👋,
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikram-n-subramanian/)](https://www.linkedin.com/in/vikram-n-subramanian/)    ![Twitter Follow](https://img.shields.io/twitter/follow/VikramSubrama11?label=Vikram)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikram-n-subramanian/)](https://www.linkedin.com/in/vikram-n-subramanian/)
 
 I am a Software Engineering student at The University of Waterloo🇨🇦. I am looking for summer 2021 internships and you can find my resume [here](https://github.com/vikramsubramanian/resume/blob/master/Resume.pdf)! 
 
