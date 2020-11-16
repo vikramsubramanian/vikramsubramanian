@@ -18,7 +18,7 @@ A project I've been working on that archives research tools- [segarage.org](http
 
 
 
-A wrapper on Git-Apply that we built to intelligently apply security patches- [ApplyPlus](https://github.com/ApplyPlus/ApplyPlus). [Research Paper.](https://dl.acm.org/doi/10.1145/3356773.3356777).
+A wrapper on Git-Apply that we built to intelligently apply security patches- [ApplyPlus](https://github.com/ApplyPlus/ApplyPlus). [Research Paper.](https://dl.acm.org/doi/10.1145/3356773.3356777)
 
 
 <!--
