@@ -16,11 +16,11 @@ I am also interested in Software Engineering Research and am working at SWAG Lab
 A little article about my research- [here](https://cs.uwaterloo.ca/news/cheriton-faculty-members-graduate-undergraduate-students-win-four-awards-at-icse-2020).
 
 
-A project I've been working on that archives research tools- [segarage.org](https://segarage.org/) [Research Article- ACM SIGSOFT SE notes] (https://github.com/ApplyPlus/ApplyPlus/blob/master/ICSE_SEIP_2021_paper_83_draft.pdf).
+A project I've been working on that archives research tools- [segarage.org](https://segarage.org/) [Research Article- ACM SIGSOFT SE notes](https://github.com/ApplyPlus/ApplyPlus/blob/master/ICSE_SEIP_2021_paper_83_draft.pdf).
 
 
 
-A wrapper on Git-Apply that we built to intelligently apply security patches- [ApplyPlus](https://github.com/ApplyPlus/ApplyPlus). [Research Paper (submitted to ICSE 2021 SEIP Track)] (https://dl.acm.org/doi/10.1145/3356773.3356777).
+A wrapper on Git-Apply that we built to intelligently apply security patches- [ApplyPlus](https://github.com/ApplyPlus/ApplyPlus). [Research Paper (submitted to ICSE 2021 SEIP Track)](https://dl.acm.org/doi/10.1145/3356773.3356777).
 
 
 <!--
