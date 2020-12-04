@@ -11,8 +11,6 @@ I am currently an intern at [Wind River](https://github.com/Wind-River). I have 
 I am also interested in Software Engineering Research and am working at SWAG Lab, University of Waterloo with [Prof. Mei Nagappan](https://cs.uwaterloo.ca/~m2nagapp/). You can find a list of my research publications [here](https://github.com/vikramsubramanian/resume/blob/master/cv_1.pdf) or in [Google Scholar.](https://scholar.google.com/citations?user=JkgVBE4AAAAJ)
 
 
-A little article about my research- [here](https://cs.uwaterloo.ca/news/cheriton-faculty-members-graduate-undergraduate-students-win-four-awards-at-icse-2020).
-
 
 A project I've been working on that archives research tools- [segarage.org](https://segarage.org/). [Research Article.](https://dl.acm.org/doi/10.1145/3356773.3356777)
 
