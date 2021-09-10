@@ -5,7 +5,7 @@
 I am a Software Engineering student at The University of Waterloo. I am looking for winter 2022 internships and you can find my resume [here](https://github.com/vikramsubramanian/resume/blob/master/Resume.pdf)! 
 
 
-I am currently a SWE Intern at Nvidia working in the GPU Infrastructure team.  I have previously interned at [Wind River](https://github.com/Wind-River), [Thomson Reuters](https://innovation.thomsonreuters.com/en/labs.html) and [Sandvine](https://www.sandvine.com/)
+I most recently was a SWE Intern at Nvidia working in the GPU Infrastructure team.  I have also previously interned at [Wind River](https://github.com/Wind-River), [Thomson Reuters](https://innovation.thomsonreuters.com/en/labs.html) and [Sandvine](https://www.sandvine.com/)
 
 
 I am also interested in Software Engineering Research and am working at SWAG Lab, University of Waterloo with [Prof. Mei Nagappan](https://cs.uwaterloo.ca/~m2nagapp/). You can find a list of my research publications [here](https://github.com/vikramsubramanian/resume/blob/master/cv_1.pdf) or in [Google Scholar.](https://scholar.google.com/citations?user=JkgVBE4AAAAJ)
