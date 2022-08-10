@@ -1,4 +1,4 @@
-### Hi I'm Vikram 👋
+### Hi, I'm Vikram 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikram-n-subramanian/)](https://www.linkedin.com/in/vikram-n-subramanian/)
 
